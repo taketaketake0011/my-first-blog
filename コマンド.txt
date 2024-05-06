@@ -1,0 +1,11 @@
+
+\djangogirlsで実行
+
+仮想環境の起動
+girls\Scripts\activate
+
+サーバの起動
+python manage.py runserver
+
+
+http://127.0.0.1:8000/
